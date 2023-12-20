@@ -1,2 +1,2 @@
-# proejct_1
+# project_1
 Trial Outs
